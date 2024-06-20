@@ -148,14 +148,15 @@ If not found, php, ssh and python modoules will be installed on first run
  - If you want mailing credentials then you need to use app password. Visit [here](https://myaccount.google.com/u/0/apppasswords) and generate an app password, put that in `mail_email.json`. You may need to enable 2FA before it.
 
 ## [!] Disclaimer
-***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of MaxPhisher!***
+***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of APhisher!***
 
 
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-Aarav-green?style=for-the-badge&logo=github)](https://github.com/Ap1311/)
+- [![Github](https://img.shields.io/badge/Github-Aarav-white?style=for-the-badge&logo=github)](https://github.com/Ap1311/)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-Aarav-green?style=for-the-badge&logo=gmail)](mailto:aaravprogrammers@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-Aarav-red?style=for-the-badge&logo=gmail)](mailto:aaravprogrammers@gmail.com)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Aarav-indigo?style=for-the-badge&logo=telegram)](https://t.me/aaravprogrammers)
+- [![Telegram](https://img.shields.io/badge/Telegram-Aarav-skyblue?style=for-the-badge&logo=telegram)](https://t.me/aaravprogrammers)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Aarav-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+919429252709)
