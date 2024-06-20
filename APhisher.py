@@ -7,9 +7,6 @@
 # Language   : Python
 # Portable file/script
 # If you copy open source code, consider giving credit
-
-
-
 from argparse import ArgumentParser
 from importlib import import_module as eximport
 from hashlib import sha256
