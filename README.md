@@ -63,11 +63,11 @@ usage: APhisher.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
 
 options:
   -h, --help            show this help message and exit
-  -p PORT, --port PORT  MaxPhisher's server port [Default : 8080]
-  -t TYPE, --type TYPE  MaxPhisher's phishing type index [Default :
+  -p PORT, --port PORT  APhisher's server port [Default : 8080]
+  -t TYPE, --type TYPE  APhisher's phishing type index [Default :
                         null]
   -o OPTION, --option OPTION
-                        MaxPhisher's template index [ Default : null ]
+                        APhisher's template index [ Default : null ]
   -T TUNNELER, --tunneler TUNNELER
                         Tunneler to be chosen while url shortening
                         [Default : Cloudflared]
