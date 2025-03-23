@@ -88,7 +88,7 @@ options:
   -s DURATION, --duration DURATION
                         Media duration while capturing [Default :
                         5000(ms)]
-  -m MODE, --mode MODE  Mode of MaxPhisher [Default: normal]
+  -m MODE, --mode MODE  Mode of APhisher [Default: normal]
   -e TROUBLESHOOT, --troubleshoot TROUBLESHOOT
                         Troubleshoot a tunneler [Default: null]
   --nokey               Use localtunnel without ssh key [Default:
@@ -144,7 +144,7 @@ If not found, php, ssh and python modoules will be installed on first run
  - Some secured browsers like Firefox can warn for '@' prefixed links. You should use pure links or custom link to avoid it.
  - Termux from play store in not supported. Download termux from fdroid or github
  - VPN or proxy prevents tunneling and even proper internet access. Turn them off you have issues.
- - Some android requires hotspot to start Cloudflared and Loclx. If you face 'tunneling failed' in android, most probably your hotspot is turned off. Turn it on and keep it on untill you close MaxPhisher.
+ - Some android requires hotspot to start Cloudflared and Loclx. If you face 'tunneling failed' in android, most probably your hotspot is turned off. Turn it on and keep it on untill you close APhisher.
  - If you want mailing credentials then you need to use app password. Visit [here](https://myaccount.google.com/u/0/apppasswords) and generate an app password, put that in `mail_email.json`. You may need to enable 2FA before it.
 
 ## [!] Disclaimer
